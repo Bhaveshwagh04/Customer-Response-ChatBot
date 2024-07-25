@@ -1,0 +1,10 @@
+langchain 
+streamlit
+torch
+accelerate
+sentence_transformers
+faiss_cpu
+python-dotenv
+huggingface_hub
+ctransformers
+replicate
